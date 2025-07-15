@@ -2,7 +2,7 @@
 <h2>My name is Bart and I’d like to welcome you to my GitHub 👋</h2>
 
 
-🎓 IT Engineer | Microsoft Certified Trainer | Cloud & Cybersecurity Specialist </br>
+🎓 IT Engineer | Microsoft Certified Trainer | Cloud & Modern Workplace Specialist </br>
 💼 I specialize in modern Microsoft technologies and focus on areas related to IT security, compliance, and enterprise environment management. I have hands-on experience in designing and implementing cloud solutions and security measures for hybrid infrastructures.
 
 <h2>💡 About me professionally:</h2></br>
